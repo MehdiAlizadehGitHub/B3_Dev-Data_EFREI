@@ -1,2 +1,0 @@
-# B3_Dev-Data_EFREI
- B3 Dev & Data EFREI 2022-2023
