@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TheApp</string>
+    <string name="theIntroText">Please Log in :</string>
+    <string name="textId">Name : </string>
+    <string name="textPwd">"Password : "</string>
+    <string name="textDate">"Date of Birth : "</string>
+    <string name="btnLogin">Log in</string>
+    <string name="textOne">This is the Game of \"TheApp\" ! Choose the right logo :</string>
+    <string name="btnActivityOne">Logo 1</string>
+    <string name="btnActivityTwo">Logo 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="winText" />
+    <string name="btnAnswer">Show Answer</string>
+    <string name="solutionText">No, you lost! The Owl Of Course ! Isn\'t it Efrei\'s mascot ? Do you want to try again ?</string>
+    <string name="chooseOwlBtn">I choose the owl logo</string>
+    <string name="chooseRedBtn">I choose the red logo</string>
+    <string name="goodJobTxt">Yes, That is right! Good job!</string>
+    <string name="tryAgainBtn">Try Again</string>
+    <string name="welcomeGuest">Hello %s, this is \"TheApp\" ! What would you like to do ? :</string>
+    <string name="add">add</string>
+    <string name="order">Order</string>
+    <string name="txtBigMac">BigMac total: %d€</string>
+    <string name="txtFrites">Fries total: %d€</string>
+    <string name="txtDrink">Drink total: %d€</string>
+    <string name="burgerCost">Cost 4€</string>
+    <string name="friesCost">Cost 2€</string>
+    <string name="drinkCost">Cost 3€</string>
+    <string name="totalTxt">Total : %s€</string>
+</resources>
